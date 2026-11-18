@@ -1,0 +1,8 @@
+type: Download
+marks:
+  - versionCode: 1
+    directories:
+      - /storage/emulated/0/ecloud
+  - versionCode: 553
+    directories:
+      - /storage/emulated/0/Download/ecloud
