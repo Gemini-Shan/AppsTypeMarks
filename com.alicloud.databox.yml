@@ -7,3 +7,6 @@ marks:
     directories:
       - /storage/emulated/0/AliYunPan/备份盘
       - /storage/emulated/0/AliYunPan/资源库
+  - versionCode: 272
+    directories:
+      - /storage/emulated/0/AliYunPan
