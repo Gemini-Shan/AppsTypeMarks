@@ -6,3 +6,6 @@ marks:
   - versionCode: 553
     directories:
       - /storage/emulated/0/Download/ecloud
+  - versionCode: 20220703
+    directories:
+      - /storage/emulated/0/Download/ecloud
