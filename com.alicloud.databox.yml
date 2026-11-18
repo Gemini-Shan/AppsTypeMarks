@@ -8,5 +8,6 @@ marks:
       - /storage/emulated/0/AliYunPan/备份盘
       - /storage/emulated/0/AliYunPan/资源库
   - versionCode: 272
-    directories:
-      - /storage/emulated/0/AliYunPan
+    rules:
+      - source: /storage/emulated/0/Download/第三方应用下载/阿里云
+        target: /storage/emulated/0/AliYunPan
